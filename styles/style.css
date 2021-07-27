@@ -1,0 +1,27 @@
+.bg-banner {
+  background-color: #fffbf0;
+}
+
+.bg-btn {
+  background-image: linear-gradient(#a4bc46, #85a019);
+}
+
+.bg-img {
+  background-color: #f1f1f1;
+}
+
+.color-yellow {
+  color: #fabe4c;
+}
+
+.color-green {
+  color: #a4bc46;
+}
+
+.color-dark {
+  color: #363958;
+}
+
+.color-dark-blue {
+  color: #1a1a5a;
+}
